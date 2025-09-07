@@ -20,4 +20,4 @@ The ZoneGrid component provides a live webcam feed (for DBC-front door) with a P
 
 **UI Library:** Material UI (MUI)
 
-**Hooks: **useState, useEffect, useRef
+**Hooks:**useState, useEffect, useRef
